@@ -25,6 +25,7 @@
 
 - (void)viewDidLoad
 {
+    NSLog(@"Second View Controller appears");
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
 }
